@@ -18,14 +18,6 @@ A simple Java Swing Notepad application with the following features (assignment 
 * **Java JDK 8** or later installed.
 * A command-line terminal (Command Prompt / PowerShell / Terminal).
 
-## Setup & Run (compile & run)
-1. Put the three `.java` files in a single folder, e.g. `SimpleNotepadProject/src/`.
-2. Open a terminal/command prompt and `cd` to that folder.
-3. Compile:
-```bash
-javac *.java
-
-
 ## Assumptions / Special Notes
 * This is a standalone desktop application — no database is required.
 * The application provides:
